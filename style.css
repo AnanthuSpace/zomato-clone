@@ -413,11 +413,7 @@ sec-6 h1{
     margin-bottom: 5px;
 }
 .third{
-    padding: 10px 120px;
+    padding: 10px 0;
     color: gray;
     font-size: 0.9rem;
-}
-hr{
-    align-items: center;
-    width: 85%;
 }
